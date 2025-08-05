@@ -176,11 +176,11 @@ FIREBASE_TOKEN_URI=https://oauth2.googleapis.com/token
 
 ### 🎪 **User Commands**
 
-| Command | Description | Example |
-|---------|-------------|---------|
-| `/start` | 🎬 Launch the bot | `/start` |
-| `/add` | ➕ Add email to user | `/add 123456789 email@domain.com 30` |
-| `/remove` | ➖ Remove user email | `/remove 123456789 email@domain.com` |
+| Command  | Description | Example |
+|----------|-------------|---------|
+| `/start` | 🎬 Launch the bot     | `/start` |
+| `/add`   | ➕ Add email to user  | `/add 123456789 email@domain.com 30` |
+| `/remove`| ➖ Remove user email  | `/remove 123456789 email@domain.com` |
 
 ### 🎨 **Interactive Menus**
 
@@ -420,9 +420,9 @@ copies or substantial portions of the Software.
 
 ### 💬 **Get Help**
 
-[![Telegram](https://img.shields.io/badge/Telegram-Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_support_channel)
-[![Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/netflix-codes-bot/issues)
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/netflix-codes-bot/discussions)
+[![Telegram](https://img.shields.io/badge/Telegram-Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/celestial_being)
+[![Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestialsbeings/netflix-codes-bot/issues)
+[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestialsbeings/netflix-codes-bot/discussions)
 
 ### 🌟 **Community**
 
