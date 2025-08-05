@@ -3,6 +3,7 @@ from firebase_admin import credentials, firestore
 from firebase_admin import db
 import time
 from google.cloud.firestore_v1.base_query import FieldFilter
+
 cred = credentials.Certificate('db.json')
 
 firebase_admin.initialize_app(cred, {

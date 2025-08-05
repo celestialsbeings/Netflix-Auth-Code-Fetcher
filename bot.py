@@ -7,7 +7,6 @@ from firebase_db import users_db
 from mail_access import extract_household_otp, extract_temp_auth_otp, extract_signin_otp
 from keep_alive import keep_alive
 
-keep_alive()
 load_dotenv()
 token = os.getenv('bot_token')
 
@@ -27,6 +26,8 @@ REMOVE_USER_EMAIL_USERID, REMOVE_USER_EMAIL_EMAIL = range(19, 21)
 VIEW_USER_INFO_USERID = range(21, 22)
 SELECT_EMAIL_FOR_CODE = range(22, 23)
 
+
+# keep_alive()
 # Helper function to safely edit messages
 async def safe_edit_message(query, message, reply_markup=None, parse_mode='HTML'):
     """Safely edit a message, handling 'Message is not modified' errors"""
