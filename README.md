@@ -421,8 +421,8 @@ copies or substantial portions of the Software.
 ### 💬 **Get Help**
 
 [![Telegram](https://img.shields.io/badge/Telegram-Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/celestial_being)
-[![Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestialsbeings/netflix-codes-bot/issues)
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestialsbeings/netflix-codes-bot/discussions)
+[![Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestialsbeings/Netflix-Auth-Code-Fetcher/issues)
+[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestialsbeings/Netflix-Auth-Code-Fetcher/discussions)
 
 ### 🌟 **Community**
 
