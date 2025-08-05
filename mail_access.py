@@ -1,11 +1,8 @@
 import os
 import re
-import re
 import html
 import poplib
-import poplib
 import quopri
-from email import parser
 from email import parser
 from dotenv import load_dotenv
 load_dotenv()

@@ -5,7 +5,9 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, Labeled
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, BusinessConnectionHandler, PreCheckoutQueryHandler, MessageHandler, filters, ConversationHandler
 from firebase_db import users_db
 from mail_access import extract_household_otp, extract_temp_auth_otp, extract_signin_otp
+from keep_alive import keep_alive
 
+keep_alive()
 load_dotenv()
 token = os.getenv('bot_token')
 
