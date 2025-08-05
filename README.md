@@ -461,13 +461,13 @@ Special thanks to:
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars//celestialsbeings/Netflix-Auth-Code-Fetcher?style=social)
-![GitHub forks](https://img.shields.io/github/forks//celestialsbeings/Netflix-Auth-Code-Fetcher?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers//celestialsbeings/Netflix-Auth-Code-Fetcher?style=social)
+![GitHub stars](https://img.shields.io/github/stars/celestialsbeings/Netflix-Auth-Code-Fetcher?style=social)
+![GitHub forks](https://img.shields.io/github/forks/celestialsbeings/Netflix-Auth-Code-Fetcher?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/celestialsbeings/Netflix-Auth-Code-Fetcher?style=social)
 
-![GitHub issues](https://img.shields.io/github/issues//celestialsbeings/Netflix-Auth-Code-Fetcher)
-![GitHub pull requests](https://img.shields.io/github/issues-pr//celestialsbeings/Netflix-Auth-Code-Fetcher)
-![GitHub last commit](https://img.shields.io/github/last-commit//celestialsbeings/Netflix-Auth-Code-Fetcher)
+![GitHub issues](https://img.shields.io/github/issues/celestialsbeings/Netflix-Auth-Code-Fetcher)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/celestialsbeings/Netflix-Auth-Code-Fetcher)
+![GitHub last commit](https://img.shields.io/github/last-commit/celestialsbeings/Netflix-Auth-Code-Fetcher)
 
 </div>
 
