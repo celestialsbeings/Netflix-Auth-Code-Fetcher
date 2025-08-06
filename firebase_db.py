@@ -364,3 +364,6 @@ class users_db:
             print(f"Error getting user emails: {e}")
             return []
 
+
+data = users_db('5308059847')
+print(data.get_user_emails('5308059847'))

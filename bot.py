@@ -27,7 +27,7 @@ VIEW_USER_INFO_USERID = range(21, 22)
 SELECT_EMAIL_FOR_CODE = range(22, 23)
 
 
-# keep_alive()
+
 # Helper function to safely edit messages
 async def safe_edit_message(query, message, reply_markup=None, parse_mode='HTML'):
     """Safely edit a message, handling 'Message is not modified' errors"""
