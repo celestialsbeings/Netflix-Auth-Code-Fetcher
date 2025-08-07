@@ -68,6 +68,7 @@ def extract_household_otp(username, password):
 
                     # Unescape HTML entities like &amp; -> &
                     clean_html = html.unescape(decoded_html)
+                    print(clean_html)
 
                     # Extract link that includes "update-primary-location" and nftoken=
                     match = re.search(r'https://www\.netflix\.com/account/update-primary-location\?[^"\s>]+', clean_html)
@@ -113,6 +114,7 @@ def extract_temp_auth_otp(username, password):
 
                     # Unescape HTML entities (&amp;, =3D, etc.)
                     clean_html = html.unescape(html_str)
+                    print(clean_html)
 
                     # Extract OTP (if in format: > 1234 </td>)
                     otp_match = re.search(r'>\s*(\d{4})\s*</td>', clean_html)
@@ -130,3 +132,7 @@ def extract_temp_auth_otp(username, password):
                     return otp_match.group(1)
 
     return None
+
+mail = "mynetflix8@stayhome.li"
+password = "E9lLMINcGLyu&d"
+print(extract_temp_auth_otp(mail, password))

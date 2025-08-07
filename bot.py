@@ -9,6 +9,7 @@ from keep_alive import keep_alive
 
 load_dotenv()
 keep_alive()
+keep_alive()
 token = os.getenv('bot_token')
 
 # Conversation states for add_user
